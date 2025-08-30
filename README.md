@@ -32,6 +32,7 @@ En este momento, es solo una copia del [repositorio original](https://github.com
 En tu clon local del repositorio, abre (`README.md`) y modifica la siguiente línea cambiando "tu nombre completo"
 
 > Soy \[Galeana Gonzalez Oscar Alexis\] y edité este archivo.
+> Soy \[Galeana Gonzalez Oscar Alexiz\] y edité este archivo.
 
 ## 4. Agregar y Confirmar Cambios (Commit)
 
